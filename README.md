@@ -1,6 +1,6 @@
 # Hi, I'm Kevin 👋🏾 💻
 
-<img src="https://pesan-web.com/assets/img/main-slide-img1.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://raw.githubusercontent.com/maulanakevinp/lavinza/master/assets/img/main-slide-img1.png" alt="banner cartoon illustration of Kevin">
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include PHP, Laravel, JavaScript, React JS, jQuery, Java, MySQL, Flutter.
 
 
