@@ -5,6 +5,6 @@ I'm a software engineer who is passionate about making open-source more accessib
 
 
 ## Find me around the web 🌎:
-- Order Web <a href="https://pesan-web.com">Pesan Web</a> or <a href="https://api.whatsapp.com/send?phone=6282331571857&text=Saya%20tertarik%20dengan%20jasa%20pembuatan%20website%20yang%20anda%20tawarkan">WhatsApp</a> 📹 ✍🏾
+- Order Web <a href="https://garudev.com">Garuda Developer</a> or <a href="https://api.whatsapp.com/send?phone=6282331571857&text=Saya%20tertarik%20dengan%20jasa%20pembuatan%20website%20yang%20anda%20tawarkan">WhatsApp</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/maulanakevinp"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/maulana-kevin-p-306958133/">LinkedIn</a> 💼
