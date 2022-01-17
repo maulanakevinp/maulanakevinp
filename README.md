@@ -12,19 +12,19 @@ I'm a software engineer who is passionate about making open-source more accessib
 
 
 ## Find me around the web 🌎:
-- Order Web <a href="https://garudev.com">Garuda Developer</a> or <a href="https://api.whatsapp.com/send?phone=6282331571857&text=Saya%20tertarik%20dengan%20jasa%20pembuatan%20website%20yang%20anda%20tawarkan">WhatsApp</a> 📹 ✍🏾
+- Order Web <a href="https://otkamedia.com">Otka Media</a> or <a href="https://api.whatsapp.com/send?phone=6282331571857&text=Saya%20tertarik%20dengan%20jasa%20pembuatan%20website%20yang%20anda%20tawarkan">WhatsApp</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/maulanakevinp"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/maulanakevinp">LinkedIn</a> 💼
 
 ## ⏱ Github Stats
 
 <div align="center">
-  <img alt="Dendy Dandees Profile View Counter" src="https://komarev.com/ghpvc/?username=maulanakevinp&color=8B5CF6&style=flat-square&label=MY+PROFILE+VIEWS"/>
+  <img alt="Maulana Kevin Pradana Profile View Counter" src="https://komarev.com/ghpvc/?username=maulanakevinp&color=8B5CF6&style=flat-square&label=MY+PROFILE+VIEWS"/>
 
   </br>
   </br>
 
-  <img alt="Dendy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=maulanakevinp&show_icons=true&theme=shades-of-purple&hide_border=true&count_private=true" height="160"/>
+  <img alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=maulanakevinp&show_icons=true&theme=shades-of-purple&hide_border=true&count_private=true" height="160"/>
 
-  <img alt="Dendy's Github Most Used Languanges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulanakevinp&layout=compact&hide=shell&theme=shades-of-purple&hide_border=true" height="160"/>
+  <img alt="Kevin's Github Most Used Languanges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulanakevinp&layout=compact&hide=shell&theme=shades-of-purple&hide_border=true" height="160"/>
 </div>
